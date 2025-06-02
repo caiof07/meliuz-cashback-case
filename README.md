@@ -1,6 +1,6 @@
-# 📊 Análise Estratégica de Cashback – Case Méliuz
+#  Análise Estratégica de Cashback – Case Méliuz
 
-## 📝 Sobre o Projeto
+##  Sobre o Projeto
 Este projeto foi desenvolvido como parte de um **case técnico do processo seletivo para o time de Growth do Méliuz**.  
 O objetivo era analisar uma base de dados **fictícia**, fornecida pela empresa, com informações de três grupos de usuários submetidos a diferentes percentuais de cashback.  
 
@@ -10,7 +10,7 @@ A partir dessa análise, foi possível avaliar o impacto de cada percentual na *
 
 ---
 
-## 🚩 Desafio
+##  Desafio
 - Analisar o desempenho dos grupos com diferentes percentuais de cashback.  
 - Calcular o impacto de cada cashback na **margem financeira**, **faturamento** e **número de clientes**.  
 - Realizar a análise 100% no **Excel**, aplicando funções como:  
@@ -19,13 +19,13 @@ A partir dessa análise, foi possível avaliar o impacto de cada percentual na *
 
 ---
 
-## 🔍 Etapas do Projeto
+##  Etapas do Projeto
 
-### 🗂️ **Introdução**
+###  **Introdução**
 - Organização da base de dados.  
 - Criação de colunas auxiliares: **Margem**, **Percentual de Cashback** e **Mês**.  
 
-### 🔢 **1º Passo – Entendendo os Dados**
+###  **1º Passo – Entendendo os Dados**
 - Análise exploratória dos dados.  
 - Cálculo de:  
  ✔️ Percentual médio de comissão (~11%).  
@@ -33,24 +33,24 @@ A partir dessa análise, foi possível avaliar o impacto de cada percentual na *
  ✔️ Percentual de margem.  
  ✔️ Percentual de cashback.  
 
-### 📊 **2º Passo – Análises Gráficas e Insights**
+###  **2º Passo – Análises Gráficas e Insights**
 - Criação de gráficos (**barras, empilhado e pizza**) no Excel.  
 - Primeiros insights sobre a relação entre cashback, margem e volume de compradores.  
 
-### 📈 **3º Passo – Análise Mensal Detalhada**
+###  **3º Passo – Análise Mensal Detalhada**
 - Análise por mês dos três grupos.  
 - Avaliação de três estratégias:  
  ✔️ **Foco em captação** (cashback maior).  
  ✔️ **Foco em margem** (cashback menor).  
  ✔️ **Estratégia intermediária** (cashback médio).  
 
-### 📊 **4º Passo – Consolidação Geral**
+###  **4º Passo – Consolidação Geral**
 - Comparação geral dos grupos.  
 - Avaliação dos trade-offs entre **margem financeira** e **volume de clientes**.  
 
 ---
 
-## ✅ Conclusão e Recomendação
+##  Conclusão e Recomendação
 A análise demonstrou que:  
 - O **cashback de 36%** entrega maior margem, porém reduz o volume de clientes.  
 - O **cashback de 61%** maximiza o volume de clientes, mas reduz significativamente a margem.  
@@ -61,9 +61,9 @@ A análise demonstrou que:
 
 ---
 
-## 🗂️ Arquivos Disponíveis
-- 📊 **Planilha Excel** com toda a análise, cálculos e gráficos.  
-- 📝 **PDF** com relatório explicativo, prints e etapas descritas.  
+## 🗂 Arquivos Disponíveis
+-  **Planilha Excel** com toda a análise, cálculos e gráficos.  
+-  **PDF** com relatório explicativo, prints e etapas descritas.  
 
 ---
 
