@@ -1,81 +1,79 @@
-#  Análise Estratégica de Cashback – Case Méliuz
+# 📊 Análise Estratégica de Cashback – Case Méliuz
 
-##  Sobre o Projeto
-Este projeto foi desenvolvido como parte de um **case técnico do processo seletivo para o time de Growth do Méliuz**.  
-O objetivo era analisar uma base de dados **fictícia**, fornecida pela empresa, com informações de três grupos de usuários submetidos a diferentes percentuais de cashback.  
-
-A partir dessa análise, foi possível avaliar o impacto de cada percentual na **margem, faturamento e volume de compradores**, definindo assim a estratégia mais equilibrada para o negócio.  
-
-> 🔧 **Ferramenta utilizada:** Excel (fórmulas, tabelas dinâmicas e gráficos).
+Este projeto foi desenvolvido com o objetivo de realizar uma **análise estratégica de cashback**, simulando um cenário de negócios baseado em dados. O desafio consiste em analisar como diferentes percentuais de cashback impactam os principais indicadores financeiros e operacionais da empresa, como **margem, faturamento e volume de clientes.**  
 
 ---
 
-##  Desafio
-- Analisar o desempenho dos grupos com diferentes percentuais de cashback.  
-- Calcular o impacto de cada cashback na **margem financeira**, **faturamento** e **número de clientes**.  
-- Realizar a análise 100% no **Excel**, aplicando funções como:  
-`MÉDIA`, `SOMASE`, `SOMASES`, `CONT.SE`, `CONT.SES`, `PROCV`, `ÍNDICE`, `CORRESP`, `SE`, `SEERRO`, `MAIOR`, `MENOR` e outras.  
-- Entregar uma análise estruturada, com dados, gráficos e uma recomendação estratégica.  
+## 🏢 Sobre o Contexto  
+
+O **Méliuz** é uma plataforma brasileira de cashback, que conecta consumidores e lojas parceiras. O modelo de negócios consiste em receber uma comissão por vendas realizadas via plataforma e repassar parte dessa comissão aos clientes, em forma de cashback.  
+
+Neste case fictício, os usuários foram divididos em **três grupos aleatórios**, cada um recebendo um percentual diferente de cashback ao longo de **três meses.**  
+
+O desafio é definir, com base em dados, qual percentual de cashback maximiza os resultados, equilibrando **rentabilidade e crescimento.**  
 
 ---
 
-##  Etapas do Projeto
+## 🗂️ Estrutura do Projeto  
 
-###  **Introdução**
-- Organização da base de dados.  
-- Criação de colunas auxiliares: **Margem**, **Percentual de Cashback** e **Mês**.  
-
-###  **1º Passo – Entendendo os Dados**
-- Análise exploratória dos dados.  
-- Cálculo de:  
- ✔️ Percentual médio de comissão (~11%).  
- ✔️ Margem (**Comissão - Cashback**).  
- ✔️ Percentual de margem.  
- ✔️ Percentual de cashback.  
-
-###  **2º Passo – Análises Gráficas e Insights**
-- Criação de gráficos (**barras, empilhado e pizza**) no Excel.  
-- Primeiros insights sobre a relação entre cashback, margem e volume de compradores.  
-
-###  **3º Passo – Análise Mensal Detalhada**
-- Análise por mês dos três grupos.  
-- Avaliação de três estratégias:  
- ✔️ **Foco em captação** (cashback maior).  
- ✔️ **Foco em margem** (cashback menor).  
- ✔️ **Estratégia intermediária** (cashback médio).  
-
-###  **4º Passo – Consolidação Geral**
-- Comparação geral dos grupos.  
-- Avaliação dos trade-offs entre **margem financeira** e **volume de clientes**.  
+- 🔍 **Base de Dados:** Apresentação e entendimento das variáveis disponíveis.  
+- 💰 **Como Funciona o Cashback no Méliuz:** Explicação do modelo de negócios.  
+- 📊 **Análise Exploratória dos Dados:** Limpeza, compreensão e cálculos iniciais (margem, % cashback, etc.).  
+- 📈 **Análise Gráfica e Comparativa:** Visualização dos dados por grupos e totais.  
+- 📆 **Análise Mensal Detalhada:** Avaliação de desempenho ao longo dos três meses.  
+- 📊 **Análise Financeira – ROI e CAC:** Cálculo dos indicadores financeiros para apoiar a tomada de decisão.  
+- ✅ **Conclusão Estratégica:** Definição do percentual de cashback recomendado com base nos dados analisados.  
 
 ---
 
-##  Conclusão e Recomendação
-A análise demonstrou que:  
-- O **cashback de 36%** entrega maior margem, porém reduz o volume de clientes.  
-- O **cashback de 61%** maximiza o volume de clientes, mas reduz significativamente a margem.  
-- O **cashback de 50%** foi identificado como o **melhor ponto de equilíbrio**, proporcionando:  
- ✔️ Boa margem operacional.  
- ✔️ Bom volume de compradores.  
- ✔️ Sustentabilidade financeira com crescimento.  
+## 📈 Indicadores Calculados  
+
+- **Margem (%)**  
+- **Faturamento Bruto**  
+- **Volume de Compradores**  
+- **ROI – Retorno sobre o Investimento**  
+- **CAC – Custo de Aquisição de Clientes**  
 
 ---
 
-## 🗂 Arquivos Disponíveis
--  **Planilha Excel** com toda a análise, cálculos e gráficos.  
--  **PDF** com relatório explicativo, prints e etapas descritas.  
+## 🛠️ Ferramentas Utilizadas  
+
+- **Excel:**  
+ ✔️ Tabelas Dinâmicas  
+ ✔️ Fórmulas Financeiras e Estatísticas  
+ ✔️ Gráficos  
+ ✔️ Análise de Cenários  
 
 ---
 
-## 💡 Observações
-- Este projeto foi desenvolvido como parte de um **processo seletivo para o time de Growth do Méliuz**.  
-- A base de dados é **fictícia**, fornecida pela empresa exclusivamente para fins de avaliação técnica.  
+## 📑 Arquivos Disponíveis  
+
+- `PDF` – Relatório completo da análise (com gráficos, conclusões e explicações detalhadas).  
+- `Excel` – Base de dados original + planilhas de análise, cálculos e dashboards.  
 
 ---
 
-## 📧 Contato
+## 🚀 Conclusão  
+
+Este projeto foi desenvolvido como parte do meu portfólio de **Análise de Dados e Inteligência de Negócios.** Ele demonstra a aplicação prática de dados para resolver problemas de negócio, suportando decisões estratégicas através de métricas, indicadores e visualização de dados.  
+
+---
+
+## 🙋‍♂️ Sobre Mim  
+
 **Caio Fernandes Alves das Neves**  
-- ✉️ Email: c.fcaic@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/caiof07](https://www.linkedin.com/in/caiof07)  
+🎯 **Analista de Dados | Engenharia de Produção | Administração**  
+📍 Arapeí – SP, Brasil  
+
+📧 **Email:** c.fcaic@gmail.com  
+🔗 **GitHub:** [github.com/caiof07](https://github.com/caiof07?tab=repositories)  
+🔗 **LinkedIn:** [linkedin.com/in/caiof07](https://www.linkedin.com/in/caiof07)  
 
 ---
+
+## ⚠️ Disclaimer  
+
+> Este projeto foi desenvolvido para fins de estudo e portfólio, utilizando dados fictícios fornecidos em um case técnico. Não possui vínculo comercial com a empresa Méliuz.  
+
+---
+
